@@ -5,11 +5,13 @@ Extends an [example](https://kepler-mapper.scikit-tda.org/generated/gallery/plot
 
 A showcase part of B.Sc. thesis on the mathematical foundation of computational topology (Institute of Applied Systems Analysis, Kyiv Polytechnic Institute, 2020).
 
+![MAPPER result simplicial complex](mapper_breast_cancer.png)
+
 # Env. setup instructions
 
 1. Install Docker and Docker Compose
 2. Ensure providing Docker access to the repo base directory. For example, for Mac OS:
-![Mac OS](docker-macos-permissions.png){:height="36px" width="36px"}.
+![Mac OS](docker-macos-permissions.png)
 3. From repo base dir execute:
 
     ```shell script
