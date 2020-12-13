@@ -1,7 +1,7 @@
 # About
 
 This is jupyter notebook with MAPPER application against UCI ML Breast Cancer Wisconsin Diagnostics.
-Extends an ![example](https://kepler-mapper.scikit-tda.org/generated/gallery/plot_breast_cancer.html) with more exploratory steps and using PCA as a projecting lens for MAPPER.
+Extends an [example](https://kepler-mapper.scikit-tda.org/generated/gallery/plot_breast_cancer.html) with more exploratory steps and using PCA as a projecting lens for MAPPER.
 
 A showcase part of BSc thesis about the mathematical foundation of computational topology (Institute of Applied Systems Analysis, Kyiv Polytechnic Institute, 2020).
 
